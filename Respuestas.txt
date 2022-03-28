@@ -1,0 +1,23 @@
+Tarea: ANALISIS DEL AHORCADO 
+Alumno: Lucas Salanitro
+
+– Tipos de datos trabajados.
+El codigo presenta estructuras de datos como diccionarios, por ejemplo, para las palabras a adivinar.
+"Hangman_Pics" es una lista, y se utilizan muchas variables de texto (que hasta a veces se concatenan)
+Tambien se usan booleanos y estructuras de control mas que estudiadas, como 'while', 'for' e 'if'.
+
+– Funciones definidas.
+El codigo presenta procedimientos con retorno y sin retorno
+Se encapsulan acciones como 
+	*Elegir un set y palabra aleatorio.
+	*Escritura en terminal del "tablero" del ahoracado.
+	*Analisis de letras ingresadas.
+	*Consultar si se quiere seguir jugando.
+
+– ¿Cómo define los niveles?
+Los niveles se definen a partir de la cantidad de la cantidad de letras que puede llegar a errar el jugador.
+El codigo lo realiza a traves de saltearse escenarios del 'Hangman_Pics', que representan la situación actual de los intentos que el jugador tiene.
+En nivel difícil se eliminan 4 intentos, en medio 2 y en fácil ninguno.
+
+– ¿Se respeta la PEP 8?
+No se respeta en cuanto a la sintaxis de las variables, las cuales deberían ser escritas con barrabajas ('_') entre los espacios
