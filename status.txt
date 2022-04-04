@@ -1,0 +1,11 @@
+Python: 
+	Practica2
+	ej11: como separar texto
+	como enviar archivo de jupyter notebook
+
+AyED
+	Practica 2
+	1.6: consultar errores en la terminal
+	2.4.d: pedir aclaracion del enunciado
+	3: consultar errores en Pila/ColaGenerica
+	4: el codigo esta bien pero ver si funciona habiendo solucionado el ej 3.
