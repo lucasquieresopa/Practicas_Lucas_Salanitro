@@ -1,5 +1,5 @@
 Python: 
-
+	nose
 AyED
 	Practica 3
 	Ej2a- cantidad de hojas seria 0,1 o 2, o el total hasta el final del arbol?
