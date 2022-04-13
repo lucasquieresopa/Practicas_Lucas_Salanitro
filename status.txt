@@ -1,9 +1,9 @@
 Python: 
-	nose
+
 AyED
 	Practica 3
-	Ej2a- cantidad de hojas seria 0,1 o 2, o el total hasta el final del arbol?
-	Ej2b- enviar arbol por referencia? recorrido recursivo?
-	
 
-smooth movie rich dice image tiger warm nerve shock anchor correct critic nasty capital swim run aerobic talk attract craft furnace canoe purchase spatial
+	Ej2b- consultar si esta bien el ej (esta mal porque imprime mal el postOrden, ver si es por culpa del metodo espejo o del postOrden)
+
+	ej2c- bucle infinito en impresion por niveles (no es ningun ej pero ayuda para hacer el 2c)
+	
