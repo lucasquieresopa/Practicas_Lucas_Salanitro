@@ -1,15 +1,3 @@
 Python: 
-
-
-	
-
-
-
-
-AyED
-	Practica 3
-
-	Ej2b- consultar si esta bien el ej (esta mal porque imprime mal el postOrden, ver si es por culpa del metodo espejo o del postOrden)
-
-	ej2c- bucle infinito en impresion por niveles (no es ningun ej pero ayuda para hacer el 2c)
+	act1b- (#1.2) no funciona, como hacer con lambda y map
 	
