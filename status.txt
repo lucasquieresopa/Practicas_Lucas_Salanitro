@@ -1,3 +1,6 @@
-Python: 
-	act1b- (#1.2 del archivo act_practica3) no funciona, como hacer con lambda y map
+Ayed
+	act4.b- consultar solucion. 
+	El problema que tenia es que a la hora de devolver el valor altura_actual el valor que devuelve es -1 del que deberia. 
+	act4.c- es porque estoy instanciando un arbolGeneral dentro de la clase Arbolgeneral?
+	
 	
