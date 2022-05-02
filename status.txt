@@ -3,4 +3,7 @@ Ayed
 	El problema que tenia es que a la hora de devolver el valor altura_actual el valor que devuelve es -1 del que deberia. 
 	act4.c- es porque estoy instanciando un arbolGeneral dentro de la clase Arbolgeneral?
 	
+	Consultar soluciones a ejercicios de practica 4.
+	Es posible que el ejemplo de la act7 este mal hecho
+	
 	
